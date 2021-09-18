@@ -8,12 +8,12 @@
 </p>
  -->
 - 👋 Hi, Akash Nachan
-- 👀 I’m interested in Mobile App Developmen
-- 🌱 I’m currently learning Flutter, Dart & Kotlin
-- 🛠 I’m looking to collaborate on any Flutter Project and also currently looking for any work opportunity
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Machine Learning 
+- 🛠 I’m looking to collaborate on any Machine Learning Project and also currently looking for any work opportunity.
 
 ## Reach Me:
-    (https://img.shields.io/badge/Gmail-nachanakashv@gmail.com)](mailto:nachanakashv@gmail.com)
+    [![](https://img.shields.io/badge/Gmail-nachanakashv@gmail.com)](mailto:nachanakashv@gmail.com)
 <p align="start">
     <a href="https://github.com/vishalrk1" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white&color=black" alt="Github" />
