@@ -8,8 +8,8 @@
 </p>
  -->
 - 👋 Hi, Akash Nachan
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning 
+- 👀 I’m interested in Data Structures & Algo, Software Development, Machine Learning.
+- 🌱 I’m currently learning Deep Learning & Computer Vision.
 - 🛠 I’m looking to collaborate on any Machine Learning Project and also currently looking for any work opportunity.
 
 ## Reach Me:
@@ -32,19 +32,11 @@
     </a>
 </p>
 
-## Experienced In:
+<!-- ## Experienced In:
 
 <p align="center">
   <a href=""> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-  </a>
-  
-  <a href=""> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-  </a>
-  
-  <a href="" target="_blank"> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C++/C++.png">
   </a>
   
 <!--   <a href="" target="_blank"> 
@@ -55,3 +47,4 @@
     <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
   </a>
 </p>
+ -->
