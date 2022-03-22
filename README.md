@@ -31,22 +31,3 @@
         <img src="https://img.shields.io/badge/-Twitter-2CA5E0?logo=twitter&style=for-the-badge&logoColor=white&color=black" alt="Twitter" />
     </a>
 </p>
-
-
-<!-- 
-<!-- ## Experienced In:
-
-<p align="center">
-  <a href=""> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C++/C++.png">
-  </a>
-  
-<!--   <a href="" target="_blank"> 
-    <img height="60" src="images/firebase.png">
-  </a>
-   -->
-  <a href="" target="_blank"> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
-  </a>
-</p>
- --> -->
