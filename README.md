@@ -24,9 +24,9 @@
   <a href="https://www.linkedin.com/in/akash-nachan-2402a21b4/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white&color=black" alt="LinkedIn" />
     </a>
-     <a href="https://www.instagram.com/winwithakash/" target="_blank">
+<!--      <a href="https://www.instagram.com/winwithakash/" target="_blank">
        <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="Instagram" />
-    </a>
+    </a> -->
   <a href="https://twitter.com/AkashNachan" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-2CA5E0?logo=twitter&style=for-the-badge&logoColor=white&color=black" alt="Twitter" />
     </a>
